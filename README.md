@@ -1,53 +1,75 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Reverse calculator] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [useless chic]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Avani] - [Nss college of engineering]
+- Member 2: [Avani] - [Nss college of engineering]
+- Member 3: [Ajmal] - [Nss coolege of engineering]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A calculator that intentionally reverses your math operations, then flips your answer for extra confusion — and only gives the correct answer when you clap for it.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People have it too easy doing math. You press 2 + 3, and it just works. Where’s the challenge? Where’s the chaos? Life is boring without a bit of unnecessary frustration.
+so human interaction to have some fun.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We introduce the Reverse Clap-Activated Calculator: it swaps your operations (+ becomes -, * becomes /) and then reverses the digits of the answer (18 becomes 81). If you clap, it finally decides to show you the right answer. You get math, mystery, and mild madness — all in one gadget.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [C++ (Arduino)]
+- [Arduino Framework]
+- [LiquidCrystal_I2C (for LCD display)
+Wire (for I2C communication)
+Keypad (for keypad input)]
+- [Arduino IDE, Serial Monitor]
 
 For Hardware:
-- [List main components]
+- [Arduino Uno (ATmega328P)
+
+I2C 16x2 LCD Display with Backlight
+
+4x4 Matrix Keypad
+
+Sound sensor / microphone module
+
+Breadboard and jumper wires
+
+USB cable for programming and power]
 - [List specifications]
 - [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[# Install Arduino IDE from https://www.arduino.cc/en/software
+# Install libraries via Arduino IDE:
+#   - LiquidCrystal_I2C
+#   - Keypad
+]
 
 # Run
-[commands]
+[# Connect Arduino Uno via USB
+# Open .ino file in Arduino IDE
+# Select Board: Arduino Uno, Port: COMx
+# Click Upload
+# Open Serial Monitor to view clap detection
+]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -88,9 +110,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Avani k.s]: [coding]
+- [ajmal]: [hardware]
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
