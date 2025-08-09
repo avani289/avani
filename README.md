@@ -69,15 +69,15 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![<img width="3188" height="1202" alt="frame (3)" src="" />
+![<img width="3188" height="1202" alt="frame (3)" src="aaa/aaa/Screenshot 2025-08-09 051420.png" />
 ](Add screenshot 1 here with proper name)
 *Clap detected in Serial Monitor.*
 
-![<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="3188" height="1202" alt="frame (3)" src="aaa/aaa/WhatsApp Image 2025-08-09 at 5.16.10 AM.jpeg" />](Add screenshot 2 here with proper name)
+*the currect answer showing the lcd *
 
-![<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="3188" height="1202" alt="frame (3)" src="aaa/aaa/Screenshot 2025-08-09 051420.png" />](Add screenshot 3 here with proper name)
+*in the serial monitor we can seen the after the claping the original funtion of the calculator in runing*
 
 # Diagrams
 ![[Start]  
@@ -108,13 +108,22 @@ For Hardware:
 
 # Build Photos
 ![]<img width="3188" height="1202" alt="frame (3)" src="aaa/aaa/WhatsApp Image 2025-08-09 at 6.12.30 AM.jpeg" />(Add photo of your components here)
-*List out all components shown*
+* arduino uno
+* sound sensor
+* 4x4 keypad
+* lcd display
 
 ![<img width="3188" height="1202" alt="frame (3)" src="aaa/aaa/WhatsApp Image 2025-08-09 at 6.02.10 AM (1).jpeg" />](Add photos of build process here)
-*Explain the build steps*
+**Sound sensor: VCC → 5V, GND → GND, OUT → A0
+
+4×4 Keypad: 8 pins → D2–D9(rows & columns)
+
+LCD with I2C: VCC → 5V, GND → GND, SDA → A4, SCL → A5
+
+Power everything from Arduino’s 5V and GND.
 
 ![<img width="3188" height="1202" alt="frame (3)" src="aaa/aaa/WhatsApp Image 2025-08-09 at 6.14.57 AM.jpeg" />](Add photo of final product here)
-*Explain the final build*
+*gives the answer with human iteraction *
 
 ### Project Demo
 # Video
