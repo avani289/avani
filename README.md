@@ -104,7 +104,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://youtube.com/shorts/XaaPvxup-mU?si=Zjqj2jwKU57Rw6Po]
 *Explain what the video demonstrates*
 
 # Additional Demos
