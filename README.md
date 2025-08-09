@@ -134,8 +134,8 @@ Power everything from Arduino’s 5V and GND.
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Avani k.s]: [coding]
-- [ajmal]: [hardware]
+[Avani k.s]: [coding]
+[ajmal]: [hardware]
   
 
 ---
