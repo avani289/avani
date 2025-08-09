@@ -80,7 +80,22 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![[Start]  
+   ↓  
+[Initialize Components]  
+   ↓  
+[User enters expression on keypad]  
+   ↓  
+[Reverse the operator]  
+   ↓  
+[Display reversed result]  
+   ↓  
+[Wait for clap detection?] → No → [New Input]  
+                     ↓ Yes  
+[Display correct result]  
+   ↓  
+[New Input]  
+](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
 For Hardware:
