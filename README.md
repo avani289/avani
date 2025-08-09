@@ -108,7 +108,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![]<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />(Add photo of your components here)
+![]<img width="3188" height="1202" alt="frame (3)" src="aaa/aaa/WhatsApp Image 2025-08-09 at 6.12.30 AM.jpeg" />(Add photo of your components here)
 *List out all components shown*
 
 ![<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />](Add photos of build process here)
